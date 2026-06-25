@@ -14,6 +14,8 @@
     --spacing: 0.25rem;
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
+    --text-3xl: 1.875rem;
+    --text-3xl--line-height: calc(2.25 / 1.875);
     --text-4xl: 2.25rem;
     --text-4xl--line-height: calc(2.5 / 2.25);
     --text-5xl: 3rem;
@@ -667,11 +669,17 @@
   .bg-\[url\(\.\.\/img\/\)\] {
     background-image: url(../img/);
   }
+  .bg-\[url\(\.\.\/img\/bg\)\] {
+    background-image: url(../img/bg);
+  }
   .bg-\[url\(\.\.\/img\/bg-02\)\] {
     background-image: url(../img/bg-02);
   }
   .bg-\[url\(\.\.\/img\/bg-02\.png\)\] {
     background-image: url(../img/bg-02.png);
+  }
+  .bg-\[url\(\.\.\/img\/bg-04\.png\)\] {
+    background-image: url(../img/bg-04.png);
   }
   .bg-\[url\(\.\.\/img\/bg\.png\)\] {
     background-image: url(../img/bg.png);
@@ -767,6 +775,10 @@
     font-size: var(--text-2xl);
     line-height: var(--tw-leading, var(--text-2xl--line-height));
   }
+  .text-3xl {
+    font-size: var(--text-3xl);
+    line-height: var(--tw-leading, var(--text-3xl--line-height));
+  }
   .text-4xl {
     font-size: var(--text-4xl);
     line-height: var(--tw-leading, var(--text-4xl--line-height));
@@ -798,6 +810,9 @@
   }
   .text-\[\#ED0000\] {
     color: #ED0000;
+  }
+  .text-\[\#\] {
+    color: #;
   }
   .text-black {
     color: var(--color-black);
