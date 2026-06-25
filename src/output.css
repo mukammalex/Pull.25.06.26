@@ -190,152 +190,17 @@
   .top-0 {
     top: 0;
   }
-  .top-\[-5vh\] {
-    top: -5vh;
-  }
-  .top-\[-10vh\] {
-    top: -10vh;
-  }
-  .top-\[-15vh\] {
-    top: -15vh;
-  }
-  .top-\[-20vh\] {
-    top: -20vh;
-  }
-  .top-\[-25vh\] {
-    top: -25vh;
-  }
-  .top-\[-30vh\] {
-    top: -30vh;
-  }
-  .top-\[-32\.5vh\] {
-    top: -32.5vh;
-  }
-  .top-\[-32vh\] {
-    top: -32vh;
-  }
-  .top-\[-33vh\] {
-    top: -33vh;
-  }
-  .top-\[-35\] {
-    top: -35;
-  }
-  .top-\[-35vh\] {
-    top: -35vh;
-  }
-  .top-\[-40vh\] {
-    top: -40vh;
-  }
-  .top-\[-45vh\] {
-    top: -45vh;
-  }
-  .top-\[-65vh\] {
-    top: -65vh;
-  }
-  .top-\[-75vh\] {
-    top: -75vh;
-  }
-  .top-\[-80vh\] {
-    top: -80vh;
-  }
-  .top-\[-83vh\] {
-    top: -83vh;
-  }
-  .top-\[-84\.5vh\] {
-    top: -84.5vh;
-  }
-  .top-\[-84vh\] {
-    top: -84vh;
-  }
-  .top-\[-85vh\] {
-    top: -85vh;
-  }
-  .top-\[-90vh\] {
-    top: -90vh;
-  }
-  .top-\[-\] {
-    top: -;
-  }
-  .top-\[5\] {
-    top: 5;
-  }
-  .top-\[5vh\] {
-    top: 5vh;
-  }
-  .top-\[6vh\] {
-    top: 6vh;
-  }
-  .top-\[8vh\] {
-    top: 8vh;
-  }
-  .top-\[10vh\] {
-    top: 10vh;
-  }
-  .top-\[30vh\] {
-    top: 30vh;
-  }
-  .top-\[40vh\] {
-    top: 40vh;
-  }
-  .top-\[50vh\] {
-    top: 50vh;
-  }
   .top-\[52vh\] {
     top: 52vh;
-  }
-  .top-\[53vh\] {
-    top: 53vh;
-  }
-  .top-\[55vh\] {
-    top: 55vh;
-  }
-  .top-\[58vh\] {
-    top: 58vh;
-  }
-  .top-\[59vh\] {
-    top: 59vh;
   }
   .top-\[60vh\] {
     top: 60vh;
   }
-  .top-\[70vh\] {
-    top: 70vh;
-  }
-  .top-\[80vh\] {
-    top: 80vh;
-  }
   .top-\[81vh\] {
     top: 81vh;
   }
-  .top-\[82vh\] {
-    top: 82vh;
-  }
-  .top-\[84vh\] {
-    top: 84vh;
-  }
-  .top-\[85vh\] {
-    top: 85vh;
-  }
-  .top-\[86vh\] {
-    top: 86vh;
-  }
-  .top-\[87vh\] {
-    top: 87vh;
-  }
-  .top-\[90vh\] {
-    top: 90vh;
-  }
   .top-\[100vh\] {
     top: 100vh;
-  }
-  .top-\[105vh\] {
-    top: 105vh;
-  }
-  .top-\[110vh\] {
-    top: 110vh;
-  }
-  .top-\[vh\] {
-    top: vh;
   }
   .left-0 {
     left: 0;
@@ -418,24 +283,6 @@
   .left-300 {
     left: calc(var(--spacing) * 300);
   }
-  .left-\[4vh\] {
-    left: 4vh;
-  }
-  .left-\[5vh\] {
-    left: 5vh;
-  }
-  .left-\[6vh\] {
-    left: 6vh;
-  }
-  .left-\[11\.5\] {
-    left: 11.5;
-  }
-  .left-\[11\.\] {
-    left: 11.;
-  }
-  .left-\[vh\] {
-    left: vh;
-  }
   .m-auto {
     margin: auto;
   }
@@ -456,12 +303,6 @@
   }
   .mt-40 {
     margin-top: calc(var(--spacing) * 40);
-  }
-  .mt-\[-10vh\] {
-    margin-top: -10vh;
-  }
-  .mt-\[-\] {
-    margin-top: -;
   }
   .mr-10 {
     margin-right: calc(var(--spacing) * 10);
@@ -492,6 +333,9 @@
   }
   .flex {
     display: flex;
+  }
+  .table {
+    display: table;
   }
   .h-0 {
     height: 0;
@@ -526,56 +370,17 @@
   .h-\[60\.5vh\] {
     height: 60.5vh;
   }
-  .h-\[60\] {
-    height: 60;
-  }
-  .h-\[60vh\] {
-    height: 60vh;
-  }
-  .h-\[61vh\] {
-    height: 61vh;
-  }
   .w-0 {
     width: 0;
   }
-  .w-\[0vh\] {
-    width: 0vh;
-  }
-  .w-\[20vh\] {
-    width: 20vh;
-  }
-  .w-\[30vh\] {
-    width: 30vh;
-  }
-  .w-\[31vh\] {
-    width: 31vh;
-  }
   .w-\[33vh\] {
     width: 33vh;
-  }
-  .w-\[40\] {
-    width: 40;
-  }
-  .w-\[40vh\] {
-    width: 40vh;
-  }
-  .w-\[60vh\] {
-    width: 60vh;
-  }
-  .w-\[70vh\] {
-    width: 70vh;
-  }
-  .w-\[72vh\] {
-    width: 72vh;
   }
   .w-\[75vh\] {
     width: 75vh;
   }
   .w-\[80vh\] {
     width: 80vh;
-  }
-  .w-\[vh\] {
-    width: vh;
   }
   .max-w-300 {
     max-width: calc(var(--spacing) * 300);
@@ -586,8 +391,14 @@
   .max-w-350 {
     max-width: calc(var(--spacing) * 350);
   }
+  .border-collapse {
+    border-collapse: collapse;
+  }
   .cursor-pointer {
     cursor: pointer;
+  }
+  .resize {
+    resize: both;
   }
   .flex-col {
     flex-direction: column;
@@ -690,38 +501,8 @@
   .bg-\[\#FFFFFF\] {
     background-color: #FFFFFF;
   }
-  .bg-\[url\] {
-    background-color: url;
-  }
-  .bg-\[w\] {
-    background-color: w;
-  }
   .bg-white {
     background-color: var(--color-white);
-  }
-  .bg-\[url\(\)\] {
-    background-image: url();
-  }
-  .bg-\[url\(\.\)\] {
-    background-image: url(.);
-  }
-  .bg-\[url\(\.\.\)\] {
-    background-image: url(..);
-  }
-  .bg-\[url\(\.\.\/\)\] {
-    background-image: url(../);
-  }
-  .bg-\[url\(\.\.\/img\)\] {
-    background-image: url(../img);
-  }
-  .bg-\[url\(\.\.\/img\/\)\] {
-    background-image: url(../img/);
-  }
-  .bg-\[url\(\.\.\/img\/bg\)\] {
-    background-image: url(../img/bg);
-  }
-  .bg-\[url\(\.\.\/img\/bg-02\)\] {
-    background-image: url(../img/bg-02);
   }
   .bg-\[url\(\.\.\/img\/bg-02\.png\)\] {
     background-image: url(../img/bg-02.png);
@@ -731,24 +512,6 @@
   }
   .bg-\[url\(\.\.\/img\/bg\.png\)\] {
     background-image: url(../img/bg.png);
-  }
-  .bg-\[url\(\.\.img\)\] {
-    background-image: url(..img);
-  }
-  .bg-\[url\(\.\.img\/\)\] {
-    background-image: url(..img/);
-  }
-  .bg-\[url\(\.\.img\/bg\)\] {
-    background-image: url(..img/bg);
-  }
-  .bg-\[url\(\.\.img\/bg\.png\)\] {
-    background-image: url(..img/bg.png);
-  }
-  .bg-\[url\(\.img\)\] {
-    background-image: url(.img);
-  }
-  .bg-\[url\(\.img\/bg\.png\)\] {
-    background-image: url(.img/bg.png);
   }
   .mask-x-to-yellow-300 {
     mask-image: var(--tw-mask-linear), var(--tw-mask-radial), var(--tw-mask-conic);
@@ -892,9 +655,6 @@
   .text-\[\#ED0000\] {
     color: #ED0000;
   }
-  .text-\[\#\] {
-    color: #;
-  }
   .text-black {
     color: var(--color-black);
   }
@@ -904,9 +664,16 @@
   .italic {
     font-style: italic;
   }
+  .underline {
+    text-decoration-line: underline;
+  }
   .shadow-2xl {
     --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
   }
   .hover\:bg-amber-400 {
     &:hover {
@@ -1069,6 +836,11 @@
   inherits: false;
   initial-value: 0 0 #0000;
 }
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
@@ -1104,6 +876,7 @@
       --tw-ring-offset-width: 0px;
       --tw-ring-offset-color: #fff;
       --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
     }
   }
 }
