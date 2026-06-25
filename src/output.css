@@ -451,6 +451,9 @@
   .mt-20 {
     margin-top: calc(var(--spacing) * 20);
   }
+  .mt-30 {
+    margin-top: calc(var(--spacing) * 30);
+  }
   .mt-40 {
     margin-top: calc(var(--spacing) * 40);
   }
@@ -681,11 +684,17 @@
   .bg-\[\#F6F7FB\] {
     background-color: #F6F7FB;
   }
+  .bg-\[\#FCFCFD\] {
+    background-color: #FCFCFD;
+  }
   .bg-\[\#FFFFFF\] {
     background-color: #FFFFFF;
   }
   .bg-\[url\] {
     background-color: url;
+  }
+  .bg-\[w\] {
+    background-color: w;
   }
   .bg-white {
     background-color: var(--color-white);
